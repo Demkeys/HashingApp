@@ -6,9 +6,8 @@ Supported algorithms: SHA1, SHA 256, SHA512, MD5
 
 App details:
 * Unity version: 2021.1.0f1
+* Target platform: Android
 * Android min version: Android 4.4 "KitKat"
 
-Android apps are forward compatible so the bulds should work in Android version above the Android min version mentioned.
 
-TO DO:
-- Upload project to repo.
+Android apps are forward compatible so the bulds should work in Android version above the Android min version mentioned.
